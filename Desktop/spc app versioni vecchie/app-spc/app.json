@@ -1,0 +1,46 @@
+{
+  "expo": {
+    "name": "SPC Fitness",
+    "slug": "spc-fitness-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#1a1a1a"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.spcfitness.app"
+    },
+    "android": {
+      "package": "com.spcfitness.app",
+      "permissions": [
+        "CAMERA",
+        "READ_EXTERNAL_STORAGE",
+        "WRITE_EXTERNAL_STORAGE"
+      ]
+    },
+    "web": {},
+    "plugins": [
+      [
+        "expo-camera",
+        {
+          "cameraPermission": "Allow SPC Fitness to access your camera to scan QR codes."
+        }
+      ],
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "Allow SPC Fitness to access your photos to scan food.",
+          "cameraPermission": "Allow SPC Fitness to access your camera to take food photos."
+        }
+      ],
+      "expo-font",
+      "expo-web-browser"
+    ]
+  }
+}
