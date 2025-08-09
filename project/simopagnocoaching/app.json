@@ -1,0 +1,45 @@
+{
+  "expo": {
+    "name": "SimoPagno Coaching",
+    "slug": "simopagno-coaching",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./src/assets/images/simopagnocoachinglogo.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./src/assets/images/simopagnocoachinglogo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#1a1a1a"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/YOUR_EAS_PROJECT_ID"
+    },
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "infoPlist": {
+        "NSAppTransportSecurity": {
+          "NSAllowsArbitraryLoads": true
+        }
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./src/assets/images/simopagnocoachinglogo.png",
+        "backgroundColor": "#1a1a1a"
+      },
+      "networkSecurityConfig": "./src/assets/network_security_config.xml"
+    },
+    "extra": {
+      "expoGo": {
+        "enablePublicAccess": true
+      },
+      "openaiApiKey": "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"
+    }
+  }
+} 

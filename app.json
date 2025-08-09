@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "13f6e0fb-b3d0-485c-9813-250f21a0408d"
+      }
+    },
+    "ios": {
+      "bundleIdentifier": "com.loerstudio.loerstudio",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "timestamp": "2025-06-25T08:52:26.298Z",
+  "website": "https://www.simonepagnottoni.it",
+  "metaInfo": {
+    "title": "Scegli - Simopagno Coaching",
+    "description": "Padel                 Coaching                 Formazione"
+  },
+  "mainPage": {
+    "content": "Scegli - Simopagno Coaching ### Padel ### Coaching ### Formazione ×",
+    "length": 67,
+    "coachingSentences": [
+      "Scegli - Simopagno Coaching ### Padel ### Coaching ### Formazione ×"
+    ]
+  },
+  "coachingInfo": {
+    "name": "Simone Pagnottoni",
+    "brand": "Simopagno Coaching",
+    "services": [
+      "Padel",
+      "Coaching",
+      "Formazione",
+      "Nutrizione",
+      "Allenamento"
+    ],
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/simopagnocoaching",
+      "instagram": "https://www.instagram.com/simopagnocoaching/",
+      "youtube": "https://www.youtube.com/channel/UC5xM0gHfD8KxwtKQ29d40wQ"
+    }
+  },
+  "chatbotTrainingData": {
+    "coachingStyle": "Professional, motivational, technique-focused",
+    "expertise": [
+      "Padel coaching",
+      "Fitness training",
+      "Nutrition guidance",
+      "Performance optimization"
+    ],
+    "commonTopics": [
+      "Scegli - Simopagno Coaching ### Padel ### Coaching ### Formazione ×"
+    ],
+    "terminology": [
+      "padel",
+      "coaching",
+      "allenamento",
+      "formazione",
+      "nutrizione",
+      "fitness",
+      "esercizio",
+      "workout",
+      "training",
+      "performance",
+      "tecnica",
+      "strategia",
+      "simone pagnottoni",
+      "simopagno",
+      "coach",
+      "istruttore"
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+# Local Netlify folder
+.netlify
+
+# Dependencies
+node_modules/
+.npm/
+.npm-global/
+
+# System files
+.DS_Store
+.CFUserTextEncoding
+.Trash/
+.bash_history
+.zsh_history
+.zsh_sessions/
+.zshrc
+.zprofile
+.viminfo
+.wget-hsts
+.zcompdump
+
+# IDE and editors
+.vscode/
+.cursor/
+.vim/
+
+# Development tools
+.gradle/
+.dart-tool/
+.dartServer/
+.flutter
+.expo/
+.ionic/
+.bundle/
+.gem/
+.gemrc
+.pub-cache/
+.swiftpm/
+.cocoapods/
+.android/
+
+# Config and cache
+.config/
+.cache/
+.claude/
+.claude.json*
+.local/
+.matplotlib/
+.railway/
+.ngrok/
+.skiptools/
+.testsprite/
+.trae/
+.trae-aicc/
+.skiko/
+
+# Cloud and services
+.app-store/
+.ssh/
+.gitconfig
+
+# Desktop files
+Desktop/
+Documents/
+Downloads/
+Library/
+Movies/
+Music/
+Pictures/
+Public/
+Applications/
+"iCloud Drive (Archive)/"
+
+# Temporary files
+*.tmp
+*.log
+.emulator_console_auth_token
+
+# Project specific
+"patapim fly 2*"
+Try
+"untitled folder/"
+"untitled%20folder/"
+"<!DOCTYPE html>.css"
