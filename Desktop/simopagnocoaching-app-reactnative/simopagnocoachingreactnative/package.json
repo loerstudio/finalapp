@@ -12,7 +12,13 @@
     "test": "jest",
     "test:watch": "jest --watch",
     "test:coverage": "jest --coverage",
-    "test:ci": "jest --ci --coverage --watchAll=false"
+    "test:ci": "jest --ci --coverage --watchAll=false",
+    "sync": "node ./scripts/auto-sync.js",
+    "sync:bash": "./scripts/auto-sync.sh",
+    "watch": "node ./scripts/watch-changes.js",
+    "git:config": "./scripts/git-auto-config.sh",
+    "git:status": "git status",
+    "git:log": "git log --oneline -10"
   },
   "dependencies": {
     "@expo/vector-icons": "^14.1.0",
